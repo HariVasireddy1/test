@@ -6,3 +6,10 @@ kheer
 dal
 pasta
 chicken
+
+
+beans
+pizza
+
+
+thanks :)
